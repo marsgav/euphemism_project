@@ -19,7 +19,7 @@ Description of each file is as follows:
   - Kapron-King, A., & Xu, Y. (2021). A diachronic evaluation of gender asymmetry in euphemism. arXiv preprint arXiv:2106.02083.
   - Martin, B. L. (1991). From Negro to Black to African American: The Power of Names and Naming. Political Science Quarterly, 106(1), 83–107. JSTOR.      https://doi.org/10.2307/2152175
   -O’Conner, P. T., & Kellerman, S. (2012, July 31). Crippled, handicapped, disabled? Grammarphobia. https://www.grammarphobia.com/blog/2012/07/crippled-handicapped-disabled.html
-  - OED. 1989. OED Online. http://www.oed.com/. Accessed: 2021-04-19.
+  - OED. 1989. OED Online. http://www.oed.com/.
   - Rawson, H. (1981). A dictionary of euphemisms & other doubletalk (1st ed.). Crown Publishers, Inc.
   - Silver, M. (2015). If You Shouldn’t Call It The Third World, What Should You Call It? Goats and Soda: Stories of Life in a Changing World. https://www.npr.org/sections/goatsandsoda/2015/01/04/372684438/if-you-shouldnt-call-it-the-third-world-what-should-you-call-it
   - Woelfel, M. (2019). Pot? Weed? Marijuana? What Should We Call It? In WBEZ. NPR. https://www.npr.org/local/309/2019/09/19/762044859/pot-weed-marijuana-what-should-we-call-it
